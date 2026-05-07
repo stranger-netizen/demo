@@ -1,3 +1,3 @@
 # demo
-this is my first repository
-autor: hemanth
+this is my first repository<br>
+author: hemanth
